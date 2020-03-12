@@ -1,0 +1,11 @@
+{
+  "name": "codenation-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DiegoSetubal/codenation-challenge.git",
+  "author": "Diego Oliveira <diegosetubal10@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
