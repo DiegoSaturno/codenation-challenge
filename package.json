@@ -5,6 +5,9 @@
   "repository": "git@github.com:DiegoSetubal/codenation-challenge.git",
   "author": "Diego Oliveira <diegosetubal10@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "axios": "^0.19.2"
   }
